@@ -17,7 +17,7 @@ t3rn renders smart contracts blockchain agnostic, meaning they can instantly exe
 The protocol works well with Parachains regardless of whether they support smart contracts or not. It's designed to be highly compatible with different blockchain architectures and easy integration using one of three kind of Gateway: Intrinsic Programmable, Extrinsic Programmable or Transaction-Only.
 
 t3rn emphasizes the existent decentralised-solutions and allows multiple blockchains to collaborate on the same contracts repository. By re-using the whole decentralised application blocks, fosters building the decentralised solutions with the freedom to operate on multiple chains.
-t3rn facilitates building interoperable solutions in familiar smart contract languages like Solidity, !ink or directly in Web Assembly. Smart contracts or Modules for Runtime which are hosted on a decentralised execution platform, Circuit and can be executed on multiple integrated blockchains. These smart contracts are shared and are being collaboratively added by community. 
+t3rn facilitates building interoperable solutions in familiar smart contract languages like Solidity, ink! or directly in Web Assembly. Smart contracts or Modules for Runtime which are hosted on a decentralised execution platform, Circuit and can be executed on multiple integrated blockchains. These smart contracts are shared and are being collaboratively added by community. 
 
 [Learn more about Gateways and how to integrate with t3rn.](./gateway)
 
@@ -38,7 +38,7 @@ All the newly created code for interoperable programming is automatically shared
 •  projects can easily collaborate by sharing and re-using the business logic 
 •  developers can contribute code for free or expect remuneration per usage. This opens up a way for developers of earning money for writing the Open Source code.
 
-Smart contracts can be written in familiar languages like !ink, Solidity, WebAssembly. Existent smart contracts can be uploaded as they are, no rewriting required. 
+Smart contracts can be written in familiar languages like ink!, Solidity, WebAssembly. Existent smart contracts can be uploaded as they are, no rewriting required. 
 
 [Learn more about writing composable contracts in our SDK.](./client/packages/sdk)
 
